@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://theusualsuspects.rocks/sitemap.xml
+Sitemap: https://playtheusualsuspects.com/sitemap.xml
